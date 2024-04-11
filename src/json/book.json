@@ -1,0 +1,59 @@
+[
+   {
+      "title": "Popular Books",
+      "horizontal": true,
+      "data": [
+         {
+            "name": "Fashionopolis",
+            "author": "Dana Thomas",
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book1.png?raw=true",
+            "stars": "4",
+            "info": "An investigation into the damage wrought by the colossal clothing industry and the grassroots, high-tech, international movement fighting to reform it."
+         },
+         {
+            "name": "Chanel",
+            "author": "Patrick Mauriès",
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book2.png?raw=true",
+            "stars": "5",
+            "info": "Celebrating eighty years of Chanel jewelry from the iconic 1932 designs to the new 2012 anniversary collection."
+         },
+         {
+            "name": "Calligraphy",
+            "author": "June & Lucy",
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book3.png?raw=true",
+            "stars": "5",
+            "info": "Modern Calligraphy, Hand Lettering, Brush Lettering Workbook."
+         }
+      ]
+   },
+   {
+      "title": "Newest",
+      "horizontal": true,
+      "data": [
+         {
+            "name": "Yves Saint Laurent",
+            "author": "Suzy Menkes",
+            "star": true,
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book4.png?raw=true",
+            "stars": "4",
+            "info": "A spectacular visual journey through 40 years of haute couture from one of the best-known and most trend-setting brands in fashion."
+         },
+         {
+            "name": "The Book of Signs",
+            "author": "Rudolf Koch",
+            "star": true,
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book5.png?raw=true",
+            "stars": "3",
+            "info": "This unusual collection of primitive and medieval symbols provides one of the most fertile single sources of decorative ideas available today."
+         },
+         {
+            "name": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "star": true,
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book6.png?raw=true",
+            "stars": "3",
+            "info": "Beautifully illustrated with specially commissioned designs, Stitched Up delves into the alluring world of fashion to reveal what is behind the clothes we wear."
+         }
+      ]
+   }
+]

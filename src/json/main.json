@@ -1,0 +1,62 @@
+[
+    {
+       "title": "series01",
+       "horizontal": true,
+       "data": [
+          {
+             "name": "green",
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm.jpg?raw=true"
+            
+          },
+          {
+             "name": "purple",            
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm01.jpg?raw=true"
+             
+          },
+          {
+            "name": "red",  
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm03.jpg?raw=true"
+             
+          }
+       ]
+    },
+    {
+        "title": "series02",
+        "horizontal": true,
+        "data": [
+           {
+              "name": "black",
+              "image": "https://github.com/huixuanxu/RPG01/blob/main/images/kasuha_sm01.jpg?raw=true"
+             
+           },
+           {
+              "name": "cat",            
+              "image": "https://github.com/huixuanxu/RPG01/blob/main/images/kasuha_sm04.jpg?raw=true"
+              
+           },
+           {
+             "name": "pink",  
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/kasuha_sm02.jpg?raw=true"
+              
+           }
+        ]
+     },
+    {
+       "title": "series03",
+       "horizontal": true,
+       "data": [
+          {
+            "name": "red",            
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book3.png?raw=true"
+          },
+          {
+            "name": "red",            
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book3.png?raw=true"
+          },
+          {
+            "name": "red",            
+            "image": "https://github.com/dknyhsu1166/app_wk3/blob/main/images/book3.png?raw=true"
+          }
+       ]
+    }
+ ]
