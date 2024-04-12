@@ -1,0 +1,166 @@
+[
+    {  
+       "number":1,
+       "title": "海昌系列一",
+       "horizontal": true,
+       "data": [
+          {
+             "name": "123",
+             "author": "Dana Thomas",
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm.jpg?raw=true"
+             
+          },
+          {
+             "name": "456",
+             "author": "456",
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm01.jpg?raw=true"
+          },
+          {
+             "name": "xiao",
+             "author": "June & Lucy",
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm02.jpg?raw=true"
+             
+          }
+       ]
+    },
+    {
+       "number":1,
+       "title": "海昌系列二",
+       "horizontal": true,
+       "data": [
+          {
+             "name": "789",
+             "author": "Suzy Menkes",
+             "star": true,
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm08.jpg?raw=true"
+        
+          },
+          {
+             "name": "The Book of Signs",
+             "author": "Rudolf Koch",
+             "star": true,
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm06.jpg?raw=true"
+            
+          },
+          {
+             "name": "Stitched Up",
+             "author": "Tansy E. Hoskins",
+             "star": true,
+             "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm07.jpg?raw=true"
+             
+          }
+       ]
+    },
+    {
+      "number":2,
+      "title": "家每系列一",
+      "horizontal": true,
+      "data": [
+         {
+            "name": "789",
+            "author": "Suzy Menkes",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm08.jpg?raw=true"
+       
+         },
+         {
+            "name": "The Book of Signs",
+            "author": "Rudolf Koch",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm06.jpg?raw=true"
+           
+         },
+         {
+            "name": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm07.jpg?raw=true"
+            
+         }
+      ]
+   },
+   {
+      "number":2,
+      "title": "家每系列二",
+      "horizontal": true,
+      "data": [
+         {
+            "name": "789",
+            "author": "Suzy Menkes",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm08.jpg?raw=true"
+       
+         },
+         {
+            "name": "The Book of Signs",
+            "author": "Rudolf Koch",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm06.jpg?raw=true"
+           
+         },
+         {
+            "name": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm07.jpg?raw=true"
+            
+         }
+      ]
+   },
+   {
+      "number":3,
+      "title": "系列二",
+      "horizontal": true,
+      "data": [
+         {
+            "name": "789",
+            "author": "Suzy Menkes",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm08.jpg?raw=true"
+       
+         },
+         {
+            "name": "The Book of Signs",
+            "author": "Rudolf Koch",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm06.jpg?raw=true"
+           
+         },
+         {
+            "name": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm07.jpg?raw=true"
+            
+         }
+      ]
+   },
+   {
+      "number":3,
+      "title": "系列二",
+      "horizontal": true,
+      "data": [
+         {
+            "name": "789",
+            "author": "Suzy Menkes",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm08.jpg?raw=true"
+       
+         },
+         {
+            "name": "The Book of Signs",
+            "author": "Rudolf Koch",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm06.jpg?raw=true"
+           
+         },
+         {
+            "name": "Stitched Up",
+            "author": "Tansy E. Hoskins",
+            "star": true,
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm07.jpg?raw=true"
+            
+         }
+      ]
+   }
+ ]

@@ -13,11 +13,13 @@ import HomeScreen from '../screens/HomeScreen';
 import DetailScreen from '../screens/DetailScreen';
 import WishScreen from '../screens/WishScreen';
 import MybookScreen from '../screens/MyBookScreen';
-import MerchandiseScreen from '../screens/Merchandise';
+import MerchandiseScreen from '../screens/MerchandiseScreen';
+import SeriesScreen from '../screens/SeriesScreen';
 import AccountScreen from '../screens/AccountScreen';
 import SettingtScreen from '../screens/SettingScreen';
 import NullScreen from '../screens/NullScreen';
 import ActionButton from '../components/ActionButton';
+import ProductScreen from '../screens/ProductScreen';
 
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -239,10 +241,10 @@ const HomeStack = ({ navigation }) => {
 }
 
 const Merchandise = ({ navigation }) => {
-  const [toggle, setToggle] = useState(true);
-  const toggleFunction = () => {
-    setToggle(!toggle);
-  };
+  // const [toggle, setToggle] = useState(true);
+  // const toggleFunction = () => {
+  //   setToggle(!toggle);
+  // };
   return (
     <Stack.Navigator>
       <Stack.Screen
@@ -278,8 +280,8 @@ const Merchandise = ({ navigation }) => {
         }}
       />
       <Stack.Screen
-        name="Detail"
-        component={DetailScreen}
+        name="Series"
+        component={SeriesScreen}
         options={{
           title: "",
           headerShadowVisible: false,
@@ -287,16 +289,39 @@ const Merchandise = ({ navigation }) => {
             <MaterialCommunityIcons
               name={'chevron-left'}
               size={30}
-              onPress={() => navigation.goBack(null)}
+              onPress={() => navigation.navigate("商品")}
               style={{ marginLeft: 0 }}
             />
           ),
-          headerRight: () => (
-            <Pressable onPress={() => toggleFunction()}>
-              {toggle ? <MaterialCommunityIcons name={'bookmark-outline'} color={'black'} size={26} /> :
-                <MaterialCommunityIcons name={'bookmark'} color={'#6200EE'} size={26} />}
-            </Pressable>
+          // headerRight: () => (
+          //   <Pressable onPress={() => toggleFunction()}>
+          //     {toggle ? <MaterialCommunityIcons name={'bookmark-outline'} color={'black'} size={26} /> :
+          //       <MaterialCommunityIcons name={'bookmark'} color={'#6200EE'} size={26} />}
+          //   </Pressable>
+          // ),
+        }}
+      />
+
+<Stack.Screen
+        name="Product"
+        component={ProductScreen}
+        options={{
+          title: "",
+          headerShadowVisible: false,
+          headerLeft: () => (
+            <MaterialCommunityIcons
+              name={'chevron-left'}
+              size={30}
+              onPress={() => navigation.navigate("Series")}
+              style={{ marginLeft: 0 }}
+            />
           ),
+          // headerRight: () => (
+          //   <Pressable onPress={() => toggleFunction()}>
+          //     {toggle ? <MaterialCommunityIcons name={'bookmark-outline'} color={'black'} size={26} /> :
+          //       <MaterialCommunityIcons name={'bookmark'} color={'#6200EE'} size={26} />}
+          //   </Pressable>
+          // ),
         }}
       />
     </Stack.Navigator>

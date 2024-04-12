@@ -1,0 +1,114 @@
+[   
+    {
+       "title": "brand01",
+       "number":1,
+       "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao.jpg?raw=true",
+       "horizontal": true,
+       "data": [
+        {
+            "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao.jpg?raw=true",
+            "num":1
+        },
+        { "series": "serie01",
+            "data":[
+                {  "name": "green",
+                   "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm.jpg?raw=true"
+                },
+
+                {   "name": "blue",
+                    "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm01.jpg?raw=true"
+                },
+                {  "name": "xiao",
+                   "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm02.jpg?raw=true"
+                }
+            ]
+            
+          },
+          { "series": "serie02",
+            "data":[
+              {  "name": "oa",
+                 "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm04.jpg?raw=true"
+              },
+
+              {   "name": "123",
+                  "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm05.jpg?raw=true"
+              },
+              {  "name": "xiao",
+                 "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm07.jpg?raw=true"
+              }
+            ]
+          
+          },
+          { "series": "serie03",
+            "data":[
+              { "name": "456",
+               "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm08.jpg?raw=true"
+              },
+
+              {  "name": "789",
+                "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm01.jpg?raw=true"
+              },
+              { "name": "xiao",
+               "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm06.jpg?raw=true"
+              }
+            ]
+          }
+       ]
+    },
+    {
+        "title": "brand02",
+        "number":2,
+        "image": "https://github.com/huixuanxu/RPG01/blob/main/images/kazuha.jpg?raw=true",
+        "horizontal": true,
+        "data": [
+            {
+                "image": "https://github.com/huixuanxu/RPG01/blob/main/images/kazuha.jpg?raw=true",
+                "number":2
+            },
+           { "series": "serie01",
+             "data":[
+                 {  "name": "green",
+                    "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm.jpg?raw=true"
+                 },
+ 
+                 {   "name": "blue",
+                     "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm01.jpg?raw=true"
+                 },
+                 {  "name": "xiao",
+                    "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm02.jpg?raw=true"
+                 }
+             ]
+             
+           },
+           { "series": "serie02",
+             "data":[
+               {  "name": "oa",
+                  "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm04.jpg?raw=true"
+               },
+ 
+               {   "name": "123",
+                   "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm05.jpg?raw=true"
+               },
+               {  "name": "xiao",
+                  "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm07.jpg?raw=true"
+               }
+             ]
+           
+           },
+           { "series": "serie03",
+             "data":[
+               { "name": "456",
+                "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm08.jpg?raw=true"
+               },
+ 
+               {  "name": "789",
+                 "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm01.jpg?raw=true"
+               },
+               { "name": "xiao",
+                "image": "https://github.com/huixuanxu/RPG01/blob/main/images/xiao_sm06.jpg?raw=true"
+               }
+             ]
+           }
+        ]
+     }
+ ]
